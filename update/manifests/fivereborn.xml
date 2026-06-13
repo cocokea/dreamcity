@@ -7,7 +7,7 @@
   <ContentFile Name="CitiLaunch_TLSDummy.dll" Size="150112" CompressedSize="150112" SHA1Hash="60f41946b7bea849959273f5eb4d05b45d97757f" SHA256Hash="ffe7c752736427b88a2dd49ffa791b4b8be35c733c9bd8896d7b672b64b6ba27" />
   <ContentFile Name="citizen-devtools.dll" Size="417376" CompressedSize="417376" SHA1Hash="af78e01d4bd0d6bf427b927baa363b207ac72eec" SHA256Hash="8efd363b6a8d043f605053417d504fc786c5072feb0a4a0f0ecee3a74158d97e" />
   <ContentFile Name="citizen-game-ipc.dll" Size="183904" CompressedSize="183904" SHA1Hash="2d0155352763f1c9ddcec26b59aff85db0290f65" SHA256Hash="cfeb4f5bada1ba6fb63176106f77413581b02a28b986a9e73b8c2c5c374b35fc" />
-  <ContentFile Name="citizen-game-main.dll" Size="1262688" CompressedSize="1262688" SHA1Hash="7c0f8eda0e47dab49ec6c8bf9dfa39f3d7829d01" SHA256Hash="8a56a81a316d8fa0a8214d2dbd73922e9a61225e9d3a27630094568554877f3d" />
+  <ContentFile Name="citizen-game-main.dll" Size="1276928" CompressedSize="1276928" SHA1Hash="2b67fa2fbf836eea840f73bfce17f7a4da3c1887" SHA256Hash="d0ef9391aa5f939667cfea3c3466bf551641bc0ccbfc67e6a66ed41f612a94a0" />
   <ContentFile Name="citizen-legacy-net-resources.dll" Size="579168" CompressedSize="579168" SHA1Hash="9ec0487b41c75dc6bc3c28ca5b3b7e9ebda18bd0" SHA256Hash="3dea809433e59c2239f9f5f39b06db6b137525c60dace1f7f224ac374c76970d" />
   <ContentFile Name="citizen-level-loader-five.dll" Size="513120" CompressedSize="513120" SHA1Hash="97b20d2151423615a58cb7be2bef7ff2905714e5" SHA256Hash="581f402b9e898bb3548824f3eabb2c3ea67f279276f9fb43df404167e679ceb8" />
   <ContentFile Name="citizen-mod-loader-five.dll" Size="281696" CompressedSize="281696" SHA1Hash="c3ccbd3ef8885ad450b5207c29db3a641c5431d6" SHA256Hash="79203cad986a4640e0081943a134e16513e07d63e9236cd71b81ec7af209c8d6" />
