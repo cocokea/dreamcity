@@ -52,7 +52,7 @@
   <ContentFile Name="devcon.dll" Size="276064" CompressedSize="276064" SHA1Hash="057e663b9a82029bd2759a0c76015c32b266ef03" SHA256Hash="b6fb8469cd0ee897c6ce81851e5cb4c0be64d4080660b5a940a72cd895536a53" />
   <ContentFile Name="devtools-five.dll" Size="540256" CompressedSize="540256" SHA1Hash="e89a6232d42a9f65def8329ca4843464db3c2b54" SHA256Hash="86188c5f21231aa2e0a1eddd114ce172b57551476c9c28986fe8cc41e2df4a4a" />
   <ContentFile Name="discord.dll" Size="437856" CompressedSize="437856" SHA1Hash="1582bec7ff0066c6348ab903a9f7419efb6b8dab" SHA256Hash="28b7fbdb57a3efec8f6f50fbeb64dbf7c8e388a1940f58eadba22114ea2bfe40" />
-  <ContentFile Name="DreamLauncher.exe" Size="5087744" CompressedSize="5087744" SHA1Hash="981b36d97a63d33b406cf45dcd2aecbf55505e0e" SHA256Hash="80bece0a546f752555a6732bfef86dfa83e007136d1c5c63195d49a7137c5e1d" />
+  <ContentFile Name="DreamLauncher.exe" Size="5087744" CompressedSize="5087744" SHA1Hash="ba2c15f22722ef1d47d8086ea17ebe7cb4906cb8" SHA256Hash="9247f6edefeaff13990433b85e85dfbb0c68f4c0ab046b0f3f729b642ef7f7e9" />
   <ContentFile Name="DreamLauncher.exe.formaldev" Size="3" CompressedSize="3" SHA1Hash="cbb8391cb65c20e2c05a2f29211e55c49939c3db" SHA256Hash="6bdf66b5bf2a44e658bea2ee86695ab150a06e600bf67cd5cce245ad54962c61" />
   <ContentFile Name="DreamLauncher.exp" Size="2729" CompressedSize="2729" SHA1Hash="862db0071ce6697116950d24df942166307c1d1d" SHA256Hash="707459cbed12ddeb4f29eee7deb896581143798e2def37374f1eb0ea46123dfa" />
   <ContentFile Name="DreamLauncher.lib" Size="4814" CompressedSize="4814" SHA1Hash="a4e87dbf634dfbc54a9159ac0ae3bc6bf677a96d" SHA256Hash="8175d9e0bde7bb8f99a9d7c311ffd580b14deba5eb17d9bad72de3a7df058b03" />
