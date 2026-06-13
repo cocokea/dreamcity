@@ -7,7 +7,7 @@
   <ContentFile Name="CitiLaunch_TLSDummy.dll" Size="150112" CompressedSize="150112" SHA1Hash="60f41946b7bea849959273f5eb4d05b45d97757f" SHA256Hash="ffe7c752736427b88a2dd49ffa791b4b8be35c733c9bd8896d7b672b64b6ba27" />
   <ContentFile Name="citizen-devtools.dll" Size="417376" CompressedSize="417376" SHA1Hash="af78e01d4bd0d6bf427b927baa363b207ac72eec" SHA256Hash="8efd363b6a8d043f605053417d504fc786c5072feb0a4a0f0ecee3a74158d97e" />
   <ContentFile Name="citizen-game-ipc.dll" Size="183904" CompressedSize="183904" SHA1Hash="2d0155352763f1c9ddcec26b59aff85db0290f65" SHA256Hash="cfeb4f5bada1ba6fb63176106f77413581b02a28b986a9e73b8c2c5c374b35fc" />
-  <ContentFile Name="citizen-game-main.dll" Size="1276928" CompressedSize="1276928" SHA1Hash="2b67fa2fbf836eea840f73bfce17f7a4da3c1887" SHA256Hash="d0ef9391aa5f939667cfea3c3466bf551641bc0ccbfc67e6a66ed41f612a94a0" />
+  <ContentFile Name="citizen-game-main.dll" Size="1277952" CompressedSize="1277952" SHA1Hash="93a88418aef1f5c4c28ee362900c9d05771ed33b" SHA256Hash="fd2e7dbce0323774f947c5581bf7d08da491edbe5c373f93d79414c759543771" />
   <ContentFile Name="citizen-legacy-net-resources.dll" Size="579168" CompressedSize="579168" SHA1Hash="9ec0487b41c75dc6bc3c28ca5b3b7e9ebda18bd0" SHA256Hash="3dea809433e59c2239f9f5f39b06db6b137525c60dace1f7f224ac374c76970d" />
   <ContentFile Name="citizen-level-loader-five.dll" Size="513120" CompressedSize="513120" SHA1Hash="97b20d2151423615a58cb7be2bef7ff2905714e5" SHA256Hash="581f402b9e898bb3548824f3eabb2c3ea67f279276f9fb43df404167e679ceb8" />
   <ContentFile Name="citizen-mod-loader-five.dll" Size="281696" CompressedSize="281696" SHA1Hash="c3ccbd3ef8885ad450b5207c29db3a641c5431d6" SHA256Hash="79203cad986a4640e0081943a134e16513e07d63e9236cd71b81ec7af209c8d6" />
@@ -52,7 +52,7 @@
   <ContentFile Name="devcon.dll" Size="276064" CompressedSize="276064" SHA1Hash="057e663b9a82029bd2759a0c76015c32b266ef03" SHA256Hash="b6fb8469cd0ee897c6ce81851e5cb4c0be64d4080660b5a940a72cd895536a53" />
   <ContentFile Name="devtools-five.dll" Size="540256" CompressedSize="540256" SHA1Hash="e89a6232d42a9f65def8329ca4843464db3c2b54" SHA256Hash="86188c5f21231aa2e0a1eddd114ce172b57551476c9c28986fe8cc41e2df4a4a" />
   <ContentFile Name="discord.dll" Size="437856" CompressedSize="437856" SHA1Hash="1582bec7ff0066c6348ab903a9f7419efb6b8dab" SHA256Hash="28b7fbdb57a3efec8f6f50fbeb64dbf7c8e388a1940f58eadba22114ea2bfe40" />
-  <ContentFile Name="DreamLauncher.exe" Size="5087744" CompressedSize="5087744" SHA1Hash="ba2c15f22722ef1d47d8086ea17ebe7cb4906cb8" SHA256Hash="9247f6edefeaff13990433b85e85dfbb0c68f4c0ab046b0f3f729b642ef7f7e9" />
+  <ContentFile Name="DreamLauncher.exe" Size="5087744" CompressedSize="5087744" SHA1Hash="83e59251a396c3890872afef248b32fc3d992c04" SHA256Hash="d477e5fc9c814c431cfd3646b2400ae91947fdaa52c9a5e9be5e901917664fc1" />
   <ContentFile Name="DreamLauncher.exe.formaldev" Size="3" CompressedSize="3" SHA1Hash="cbb8391cb65c20e2c05a2f29211e55c49939c3db" SHA256Hash="6bdf66b5bf2a44e658bea2ee86695ab150a06e600bf67cd5cce245ad54962c61" />
   <ContentFile Name="DreamLauncher.exp" Size="2729" CompressedSize="2729" SHA1Hash="862db0071ce6697116950d24df942166307c1d1d" SHA256Hash="707459cbed12ddeb4f29eee7deb896581143798e2def37374f1eb0ea46123dfa" />
   <ContentFile Name="DreamLauncher.lib" Size="4814" CompressedSize="4814" SHA1Hash="a4e87dbf634dfbc54a9159ac0ae3bc6bf677a96d" SHA256Hash="8175d9e0bde7bb8f99a9d7c311ffd580b14deba5eb17d9bad72de3a7df058b03" />
