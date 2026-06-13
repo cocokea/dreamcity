@@ -3,7 +3,6 @@
   <ContentFile Name="adhesive.dll" Size="53925984" CompressedSize="53925984" SHA1Hash="c640061c48e225c253861e618646cd113062a9e4" SHA256Hash="5dbf2b031f39e6534568ffa754505850362ba85f73e72afdd4579c1b460f802c" />
   <ContentFile Name="asi-five.dll" Size="199776" CompressedSize="199776" SHA1Hash="c38174e32a8da6b4bb082da8650685d3ec56977d" SHA256Hash="2e9a243dc7f06ef2052b30b8431af8891a68c595ef696dc5f3b247cbf09d6027" />
   <ContentFile Name="botan.dll" Size="4832352" CompressedSize="4832352" SHA1Hash="bc187d333cb3c3a8c2c564295d2e9a1a191a4e76" SHA256Hash="915bdfe55faf30f670c67b158c147ed5a2960f8d884f6f2175ee4f5f743244b3" />
-  <ContentFile Name="cef_console.txt" Size="0" CompressedSize="0" SHA1Hash="da39a3ee5e6b4b0d3255bfef95601890afd80709" SHA256Hash="e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855" />
   <ContentFile Name="cfx_curl_x86_64.dll" Size="2465376" CompressedSize="2465376" SHA1Hash="c61b193ab05690fffa077b81db9e4ef5655dc033" SHA256Hash="e21c28b96623caf37926b94daa1a5113c4a9c1d7a0c3d0d76a6fc616697a9954" />
   <ContentFile Name="CitiLaunch_TLSDummy.dll" Size="150112" CompressedSize="150112" SHA1Hash="60f41946b7bea849959273f5eb4d05b45d97757f" SHA256Hash="ffe7c752736427b88a2dd49ffa791b4b8be35c733c9bd8896d7b672b64b6ba27" />
   <ContentFile Name="citizen-devtools.dll" Size="417376" CompressedSize="417376" SHA1Hash="af78e01d4bd0d6bf427b927baa363b207ac72eec" SHA256Hash="8efd363b6a8d043f605053417d504fc786c5072feb0a4a0f0ecee3a74158d97e" />
@@ -206,7 +205,6 @@
   <ContentFile Name="citizen/game_compliance.bin" Size="8138" CompressedSize="8138" SHA1Hash="737014716b94ace3b44de63e7edf27a536587251" SHA256Hash="8f89c6ad646537d0a9a1f839c02600d8bb47b9c49229f495bdf3be15bb39609a" />
   <ContentFile Name="citizen/load_profile.json" Size="35066" CompressedSize="35066" SHA1Hash="67903eda1fce12cbf41390bd64cfce94a294354b" SHA256Hash="9e15667bb0da6076a2c777f35d12d0164b991a7c3bf4cf8dbe10117f2544d050" />
   <ContentFile Name="citizen/release.txt" Size="7" CompressedSize="7" SHA1Hash="cf1c22873d66ba12039d71928a24d72fe8e648f6" SHA256Hash="81b5bb648ba119c5db8acaa9aa929c5c6b30c8ed5f1157ffe794d647e991ef06" />
-  <ContentFile Name="citizen/streaming_surrogate.rpf" Size="0" CompressedSize="0" SHA1Hash="da39a3ee5e6b4b0d3255bfef95601890afd80709" SHA256Hash="e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855" />
   <ContentFile Name="citizen/ui-big.zip" Size="1553842" CompressedSize="1553842" SHA1Hash="9000cef219a1f9c51cc8d2d11cd1b5bb066b4676" SHA256Hash="1683dfb28cc93578351a4be10a0dbbb739fd5c370694f31fd8c7bef3b56d4cfc" />
   <ContentFile Name="citizen/ui.zip" Size="8685628" CompressedSize="8685628" SHA1Hash="970d35219ca2169dab288f15e51a07ce9655ebb1" SHA256Hash="c93f4d5eeb5ce9721cb30a4ba670c32279ec1539fd9105d4cab97b2904c88c39" />
   <ContentFile Name="citizen/version.txt" Size="9" CompressedSize="9" SHA1Hash="5704c661672cc600c56b829061bb6415b495865e" SHA256Hash="2f5eff64ee931f3bd5981a70ef68bd02b3ba6152d428673f3e659b4825d8e499" />
@@ -500,7 +498,6 @@
   <ContentFile Name="data/game-storage/ros_documents_b576/socialclub.log" Size="7284" CompressedSize="7284" SHA1Hash="d1f71e98165f42cc509b3b98c707a197a92e3fc9" SHA256Hash="3a007037f309d8dd7ab68ff70a49b734ab56b0efbed7dd879217396af0028411" />
   <ContentFile Name="data/game-storage/ros_documents_b576/Cache/browser_cache_settings.dat" Size="8" CompressedSize="8" SHA1Hash="3c1d02c82d965aa7cc7fd15787cccca25e7ae7d1" SHA256Hash="b4c779552ca22d7750245fc35c32e80a19070374d6531cbab675156a8db2ba14" />
   <ContentFile Name="data/game-storage/ros_documents_b576/Titles/GTA V/metadata.dat" Size="1075109" CompressedSize="1075109" SHA1Hash="7df5c8ca18361a1843b305ede417b6382b8192bc" SHA256Hash="ca4310dd7a07c50ac5051b36b3f9984390e074ddd119b8e98627a164beecbdee" />
-  <ContentFile Name="data/game-storage/ros_launcher_appdata_b576/firstrun.dat" Size="0" CompressedSize="0" SHA1Hash="da39a3ee5e6b4b0d3255bfef95601890afd80709" SHA256Hash="e3b0c44298fc1c149afbf4c8996fb92427ae41e4649b934ca495991b7852b855" />
   <ContentFile Name="data/game-storage/ros_launcher_appdata_b576/manifest_gta5_dev_104.xml" Size="880" CompressedSize="880" SHA1Hash="8048d38c8e30fe918b1651df24a7db72a49fe85e" SHA256Hash="34b939de5fb880849dc36e31d16d12fc90517488fb4f3dab70a0e16486642e36" />
   <ContentFile Name="data/game-storage/ros_launcher_appdata_b576/manifest_launcher_dev_59.xml.tmp" Size="16" CompressedSize="16" SHA1Hash="616ec82ac1f1a922dc918e85ca0cb02aabfdfdcc" SHA256Hash="e0be65a294baa60ac9f640ac5a66b14930907bcf405683ceb039620c536e7192" />
   <ContentFile Name="data/game-storage/ros_launcher_appdata_b576/settings_user.dat" Size="576" CompressedSize="576" SHA1Hash="7a34b76139526aed02fe135a885bb3770ca81ee3" SHA256Hash="7ba2059e1455f53d9303cfcd3ccad368f0ae855de8dd0a3f036b3ed07fd52e8f" />
